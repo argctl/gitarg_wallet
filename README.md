@@ -1,0 +1,11 @@
+## Overview
+
+The idea is to put eth behind private wallet paywall that transfers wallets instead of transfering eth and the pay to transfer can be in a different crypto currency so that a combination of alt coins and fee payments can be collected to store the alt coins to create deletion proofs with exchange hashing to force offline storage of coins that can be later traced through secure terminals for withrawl or return of crypto currency to the owning party to incentivize the deletion of the currency. 
+
+We use a send over network and a physical copy and cash out both, but only once and record it in cold storage, deincentivizing the storage economically over time and then at a live facility at prerecorded times, recycle the phyical storage of the proofs and reissue the digital currency but to a record of owners paid out originally, creating a real debt system based on computation, effort and logic.
+
+This is a pattern to delete actual information by encrypting it, making NFTs or the concept have value in the long term, possibly not the short term, and solidifying storage of certain information as valuable and increasing sustainability over time.
+
+Having the system reissue after an amount of time can solidify ownership in a system that can verify identity, and percentage allocation can follow guidelines specific to types of currency. This means that a currency can be converted to a contract and a contract can be converted back into currency all on decentralized ledgers using identity as a currency in the systems to incentivize distribution of currency in a decentralized system based on space and time directly at a base level of identity instead of a direct debt system, leaving the debt system to the individual currency or sets of currencies.
+
+This makes the set of currencies a value system or set of independent values that can indicate resource distribution and pathways of travel for resources to indicate Schelling points that can acheive short term vectors or deltas in a constantly solved real-time traveling salesman problem with a debt simulation that uses collective knowledge to make predictave paths for the distribution of goods and services or paths of travel in a network of nodes or decentralized network(s) node(s) that distribute information privately but with positive credit for the individual.
